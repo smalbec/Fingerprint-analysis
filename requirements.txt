@@ -1,0 +1,3 @@
+opencv-python>=4.0
+scikit-image>=0.18.1
+fingerprint-enhancer>=0.0.11
